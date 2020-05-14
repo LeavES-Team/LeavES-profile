@@ -1,0 +1,5 @@
+name: LeavES-Team-Profile
+main: ru.leaves.lefdev.profile.Loader
+version: 1.0
+api: [1.0.9]
+author: LefDev
